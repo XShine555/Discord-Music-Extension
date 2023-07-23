@@ -1,0 +1,25 @@
+{
+	{
+		"En" : {
+			"Author_Not_Connected" : "You are not connected to any channel.",
+			"Already_In_Use" : "I'm already connected to a voice channel.",
+			"Search_Not_Found" : "Music not found",
+			"Added_To_Queue" : "Music added to the queue.",
+			"Im_Not_Connected" : "I'm not connected to any channel.",
+			"Not_The_Same_Channel" : "We are not in the same channel.",
+			"Player_Already_Stopped" : "There is nothing playing.",
+			"Player_Not_Stopped" : "Music is not paused.",
+			"Queue_Empty" : "The queue is empty.",
+			"LoopMode_Disabled" : "Loopmode disabled.",
+			"LoopMode_Activated" : "Loopmode activated",
+			"Enter_Valid_Number" : "Enter a valid number.",
+			"Nothing_Playing" : "There is nothing playing.",
+			"Now_Playing" : "Now Playing: ",
+			"Dont_Undeaf" :  "Don't undeaf the bot!",
+			"Leave" : "Leave",
+			"Pause" : "Pause",
+			"Resume" : "Resume",
+			"Skip" : "Skip",
+		}
+	}
+}

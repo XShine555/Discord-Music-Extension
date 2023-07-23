@@ -32,6 +32,8 @@ class MusicPlayer_Extension(DiscCommands.Cog):
 
     async def getLocale(Self, Context, Locale):
 
+        # This version doesn't include Database Support. That's why there is a Language Var :)
+        
         Language = 'En'
 
         File = open('MusicPlayer_Locale.json', encoding = 'UTF-8')
